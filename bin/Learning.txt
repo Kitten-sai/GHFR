@@ -1,0 +1,42 @@
+Day-1
+
+1)class
+2)Methods
+3)Variable
+
+
+Class is nothing but contains Variables and Methods.
+
+constructor 
+
+Rule for Class 
+
+1)Class name must start Upper_case 
+2)java file name should be same as Class name 
+	eg: if my .java file is New_class.java the my class name also should be New_class.
+	
+syntax:
+
+public class Class1{
+
+}	
+
+public-Access modifier 
+class- keyword 
+Class1 - is my class name and it should always starts with upper case.
+	
+	
+
+Methods:
+1) A methods should always Strats with Lowercase and it should follow the Camel case .
+
+Camel case:
+
+Eg: methodUserAdmin
+
+where ever the upper case starts they are consider as Words till the next Upper case.
+
+
+
+
+
