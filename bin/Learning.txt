@@ -36,6 +36,8 @@ Eg: methodUserAdmin
 
 where ever the upper case starts they are consider as Words till the next Upper case.
 
+git command :
+
 
 
 
